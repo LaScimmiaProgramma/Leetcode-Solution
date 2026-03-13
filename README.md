@@ -8,5 +8,9 @@ C#
 ## Goal
 Improving problem solving skills and algorithm knowledge, one problem at a time.
 
+### 🔗 Find me also on
+- [CodeWars](https://www.codewars.com/users/LaScimmiaProgramma)
+- [Stack Overflow](https://stackoverflow.com/users/32460577/LaScimmiaProgramma)
 
+### else
 Updated regularly. Comments and explanations coming soon 
