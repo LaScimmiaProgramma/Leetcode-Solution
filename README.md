@@ -3,7 +3,7 @@ A collection of my LeetCode solutions focused on understanding algorithms and da
 Solutions are written in C# but the logic is easily transferable to C++ and Java.
 
 ## Languages used: 
-C# and Pyhton
+C# and Python
 
 ## Goal
 Improving problem solving skills and algorithm knowledge, one problem at a time.
